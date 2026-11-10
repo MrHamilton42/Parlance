@@ -1,0 +1,11 @@
+{
+  "name": "parlance-wow",
+  "private": true,
+  "scripts": {
+    "test": "node tests/run-forever-voice.cjs"
+  },
+  "devDependencies": {
+    "fengari": "0.1.5",
+    "luaparse": "0.3.1"
+  }
+}

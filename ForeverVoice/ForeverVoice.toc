@@ -1,0 +1,9 @@
+## Interface: 16001, 120105
+## Title: Parlance
+## Notes: Custom speech and emotes for your abilities.
+## Version: 0.5.0
+## SavedVariablesPerCharacter: ForeverVoiceDB
+
+Sharing.lua
+Core.lua
+Editor.lua
